@@ -89,3 +89,4 @@ E:\Projects\AzureDevopsCommitLister\obj\Debug\netcoreapp3.1\AzureDevopsCommitLis
 E:\Projects\AzureDevopsCommitLister\obj\Debug\netcoreapp3.1\AzureDevopsCommitLister.dll
 E:\Projects\AzureDevopsCommitLister\obj\Debug\netcoreapp3.1\AzureDevopsCommitLister.pdb
 E:\Projects\AzureDevopsCommitLister\obj\Debug\netcoreapp3.1\AzureDevopsCommitLister.genruntimeconfig.cache
+E:\Projects\AzureDevopsCommitLister\obj\Debug\netcoreapp3.1\AzureDevopsCommitLister.csproj.AssemblyReference.cache
